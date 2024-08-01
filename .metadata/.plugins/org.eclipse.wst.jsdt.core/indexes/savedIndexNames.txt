@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\programacao if\site matérias\prjModulo8\prjModulo81\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+670379389.index
+2678088202.index
+568888891.index
+395573520.index
+31305068.index
+2110707888.index

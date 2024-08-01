@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [03/Jun/2024:00:00:01 -0300] "GET /prjModulo8/listagem HTTP/1.1" 200 12316
+0:0:0:0:0:0:0:1 - - [03/Jun/2024:00:00:01 -0300] "GET /prjModulo8/editarUsuario?nome=arroz HTTP/1.1" 200 3599
+0:0:0:0:0:0:0:1 - - [03/Jun/2024:00:00:07 -0300] "GET /prjModulo8/listagem HTTP/1.1" 200 12316
+0:0:0:0:0:0:0:1 - - [03/Jun/2024:00:00:08 -0300] "GET /prjModulo8/editarUsuario?nome=arroz HTTP/1.1" 200 3599
+0:0:0:0:0:0:0:1 - - [03/Jun/2024:00:00:41 -0300] "POST /prjModulo8/editarUsuario HTTP/1.1" 200 12316
+0:0:0:0:0:0:0:1 - - [03/Jun/2024:00:01:01 -0300] "GET /prjModulo8/editarUsuario?nome=arroz HTTP/1.1" 200 3599
