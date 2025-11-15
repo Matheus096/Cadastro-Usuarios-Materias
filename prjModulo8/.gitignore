@@ -1,10 +1,3 @@
-# Eclipse
-.classpath
-.project
-.settings/
-bin/
-.metadata/
-
 # Build
 build/
 dist/
@@ -13,28 +6,8 @@ dist/
 *.war
 *.ear
 
-# IDE
-.idea/
-*.iml
-*.iws
-*.ipr
-*.vscode/
-.DS_Store
-
-# Database
-*.h2.db
-*.trace.db
-*.log
-
-# OS
-Thumbs.db
-.DS_Store
-
-# Temporary files
-*.tmp
-*.bak
-*~
-.~*
-
-# Text files
+# Ignora todos os arquivos TXT
 *.txt
+
+# Exceto o createTable.txt
+!src/main/createTable.txt
