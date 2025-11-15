@@ -145,9 +145,9 @@ O projeto foi desenvolvido com **Java 8**. Configurações em:
 ## 📦 Dependências
 
 O projeto não utiliza Maven/Gradle. Para adicionar dependências externas:
-1. Baixe o JAR necessário
+1. Baixe o JAR necessário (h2-1.4.200, jstl-1.2, servlet-api)
 2. Coloque em `src/main/webapp/WEB-INF/lib/`
-3. Atualize `.classpath` no Eclipse
+3. Atualize `.classpath` no Eclipse/VSCode
 
 ## 🐛 Troubleshooting
 
